@@ -1,0 +1,1 @@
+## Simple application for fetching current total supply, circulating supply and USD price of VAI Token
